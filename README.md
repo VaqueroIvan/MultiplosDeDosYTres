@@ -1,2 +1,2 @@
-# MultiplosDeDosYTres
+# NumerosMenorAMayor
 Created with CodeSandbox
